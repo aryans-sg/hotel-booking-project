@@ -1,37 +1,57 @@
 # 🏨 Hotel Booking System – Kalyan
 
-This is a Hotel Booking Management System built with Python, featuring a Tkinter-based GUI, MySQL database integration, and data visualization using matplotlib and pandas. Ideal for basic hotel management use cases such as room bookings, customer info storage, and generating graphical reports.
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://python.org)
+[![GUI](https://img.shields.io/badge/GUI-Tkinter-yellowgreen)](#)
+[![Database](https://img.shields.io/badge/Database-MySQL-blue)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](#)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](#)
+
+---
+
+## 📌 Description
+
+A **Hotel Booking Management System** built with:
+- 🐍 Python (backend logic)
+- 🪟 Tkinter (graphical interface)
+- 🗃 MySQL (database integration)
+- 📊 matplotlib & pandas (visualization)
+
+📌 Ideal for learning:
+- Basic GUI design
+- Database CRUD operations
+- Data visualization in Python
+
+---
+
+## 🖼️ Screenshots
+
+| Booking Interface | Data Output |
+|------------------|-------------|
+| ![Booking](./3.Booking_system.png) | ![Output](./1.Python_output.png) |
+
+More in `/Screenshots` folder.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 Login system (if implemented)
-- 📋 Add, update, and delete bookings
-- 🧾 Customer and room detail management
-- 📊 Visualization of booking data using matplotlib
-- 🗃️ MySQL database integration
-- 🖥️ GUI interface built with Tkinter
+- Room booking system with form input
+- Real-time customer data saving to MySQL
+- Dynamic plots and reports with matplotlib
+- Clean, beginner-friendly GUI
 
 ---
 
-## 💻 Technologies Used
+## 🛠️ Installation
 
+### 🔧 Prerequisites
 - Python 3.x
-- Tkinter
-- MySQL (via `mysql-connector-python`)
-- pandas, numpy
-- matplotlib
+- MySQL installed
+- Pip packages: Tkinter, matplotlib, pandas, mysql-connector-python
 
----
-
-## 🛠️ How to Run
-
-1. Clone this repository or download the ZIP.
-2. Ensure MySQL server is installed and running.
-3. Import the database or create required tables manually.
-4. Update your MySQL credentials in `hotel_booking_kalyan.py`
-5. Install required libraries:
+### 🧩 Setup
 
 ```bash
+git clone https://github.com/aryans-sg/hotel-booking-project.git
+cd hotel-booking-project
 pip install -r requirements.txt
