@@ -55,3 +55,5 @@ More in `/Screenshots` folder.
 git clone https://github.com/aryans-sg/hotel-booking-project.git
 cd hotel-booking-project
 pip install -r requirements.txt
+<!-- Daily update to keep the GitHub streak going -->
+
