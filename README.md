@@ -41,7 +41,7 @@ More in `/Screenshots` folder.
 - Clean, beginner-friendly GUI
 
 ---
-
+ 
 ## 🛠️ Installation
 
 ### 🔧 Prerequisites
