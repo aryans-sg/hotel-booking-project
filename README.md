@@ -45,9 +45,9 @@ More in `/Screenshots` folder.
 ## 🛠️ Installation
 
 ### 🔧 Prerequisites
-- Python 3.x
-- MySQL installed
-- Pip packages: Tkinter, matplotlib, pandas, mysql-connector-python
+- Python 3.x.
+- MySQL installed.
+- Pip packages: Tkinter, matplotlib, pandas, mysql-connector-python.
 
 ### 🧩 Setup
 
