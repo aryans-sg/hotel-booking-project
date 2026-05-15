@@ -1,2 +1,75 @@
-I'm Aryan Sharma – an aspiring developer with a passion for Python, backend systems, and user interface design. Currently learning and building real-world projects with a focus on clean code and user experience.
+# 👋 Hi, I'm Aryan Sharma
 
+## 🛡️ Aspiring Cybersecurity Professional
+
+I am currently building my skills in:
+- Cybersecurity
+- Networking
+- Linux
+- Python scripting
+- Web security
+- Ethical hacking fundamentals
+
+I use this GitHub profile to document my learning journey, projects, writeups, and daily progress.
+
+---
+
+## 🚀 Current Focus
+
+- Completing cybersecurity labs and challenges
+- Building beginner security tools and scripts
+- Improving Linux and networking knowledge
+- Maintaining consistent GitHub activity
+- Creating public proof of learning
+
+---
+
+## 📚 Learning Platforms
+
+- TryHackMe
+- GitHub
+- Linux labs
+- Networking practice
+- Security writeups
+
+---
+
+## 💻 Current Projects
+
+- Port Scanner
+- Password Strength Checker
+- Linux Automation Scripts
+- Networking Notes
+- TryHackMe Writeups
+
+---
+
+## 🎯 Goals
+
+- Develop strong practical cybersecurity skills
+- Build a professional GitHub portfolio
+- Contribute consistently to open-source and personal projects
+- Prepare for future cybersecurity opportunities
+
+---
+
+## 📈 Daily Consistency
+
+I believe consistency matters more than perfection.
+
+This profile is a record of continuous learning, experimentation, and improvement.
+
+---
+
+## 🛠️ Skills in Progress
+
+- Linux
+- Python
+- Networking
+- Git & GitHub
+- Bash scripting
+- Web security basics
+
+---
+
+⭐ Thanks for visiting my profile.
